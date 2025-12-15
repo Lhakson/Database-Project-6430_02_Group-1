@@ -13,8 +13,8 @@ This project modernizes the Port Authority’s infrastructure planning by transi
 - **/Database_DWH**: Contains the SQL Server `.bak` file and schema scripts.
 - **/ETL_Pipeline**: Contains the SSIS project source code for data consolidation.
 - **/Analytics_Models**: Contains Jupyter Notebooks and Markdown reports for OLS and Prophet models.
-- **Project Report**: Fall_2025_6430_02_Group_1.docx
-- **Dashboard**: Port_Authority.pbix
+- **Project Report**: Fall_2025_6430_02_Group_1_Final_Report.docx
+- **Dashboard**: Project_Port_Authority.pbix
 
 ## 🛠️ Technical Note
 All Power BI visuals use **Import Storage Mode**. All historical and forecasted data is embedded within the .pbix file; no external database connection is required for evaluation.
